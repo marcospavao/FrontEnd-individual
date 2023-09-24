@@ -1,0 +1,13 @@
+label {
+  display: block;
+}
+textarea {
+  margin: 15px;
+  width: 200px;
+  height: 120px;
+}
+.im {
+  margin: 5px;
+  width: 400px;
+  height: 200px;
+}
